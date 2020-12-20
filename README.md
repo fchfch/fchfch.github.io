@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+微博@冯色 https://weibo.com/qaq617
+
+<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=iOns5eHmyOO77fCm6_fl" target="_blank" rel="nofollow">给我发邮件</a>
+
+<a href="https://blog.k3ex.com" target="_blank" rel="nofollow">个人博客</a>
+
+<a href="http://k3ex.com" target="_blank" rel="nofollow">手赚房</a>
+
+
+
+
 You can use the [editor on GitHub](https://github.com/fchfch/fchfch.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
